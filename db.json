@@ -3,7 +3,7 @@
         "page":"1",
         "pageSize":"5",
         "totalPosts":"30",
-        "totalPages":"5",
+        "totalPages":"6",
         "posts":[
             {
             "title":"The benifits of continous learning in tech jobs",
@@ -52,7 +52,7 @@
         "page":"2",
         "pageSize":"5",
         "totalPosts":"30",
-        "totalPages":"5",
+        "totalPages":"6",
         "posts":[
             {
                 "title": "The Evolution of Cybersecurity: Navigating Digital Threats",
@@ -100,7 +100,7 @@
         "page":"3",
         "pageSize":"5",
         "totalPosts":"30",
-        "totalPages":"5",
+        "totalPages":"6",
         "posts":[
             {
                 "title": "Quantum Computing: Unraveling the Future of Information Processing",
@@ -149,7 +149,7 @@
         "page":"4",
         "pageSize":"5",
         "totalPosts":"30",
-        "totalPages":"5",
+        "totalPages":"6",
         "posts":[
             {
                 "title": "Neurotechnology and Brain-Computer Interfaces: Unleashing the Power of the Mind",
@@ -198,7 +198,7 @@
         "page":"5",
         "pageSize":"5",
         "totalPosts":"30",
-        "totalPages":"5",
+        "totalPages":"6",
         "posts":[
             {
                 "title": "Quantified Self: Exploring the Impact of Wearable Technology on Personal Health",
@@ -247,7 +247,7 @@
         "page":"6",
         "pageSize":"5",
         "totalPosts":"30",
-        "totalPages":"5",
+        "totalPages":"6",
         "posts":[
             {
                 "title": "Edge AI: Bringing Intelligence to the Internet of Things",
